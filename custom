@@ -1,4 +1,29 @@
 #EXTINF:-1 group-title="KSA SPORT" tvg-logo="https://images.app.goo.gl/3ZxgNNwp3kSFBNaY8", Ksa Sport
 #EXTVLCOPT:http-player-type=webplayer
 https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_sport1&t=11111111
+#EXTINF:-1 group-title="SSC SPORTS", SSC 1
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news
 
+#EXTINF:-1 group-title="SSC SPORTS", SSC 1
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1
+
+#EXTINF:-1 group-title="SSC SPORTS", SSC 3
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc3
+
+#EXTINF:-1 group-title="SSC SPORTS", SSC 4
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc4
+
+#EXTINF:-1 group-title="SSC SPORTS", SSC 5
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_5
+
+#EXTINF:-1 group-title="SSC SPORTS", SSC EXTRA1
+https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1
+
+#EXTINF:-1 group-title="SSC SPORTS", SSC EXTRA2
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2
